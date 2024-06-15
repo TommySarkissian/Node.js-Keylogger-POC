@@ -10,8 +10,8 @@ This project is a proof-of-concept Node.js keylogger that captures and analyzes 
 - **Discord Webhook Integration**: Sends analyzed data to a Discord webhook.
 
 ## Screenshots
-![Console Output](https://i.imgur.com/Cn3Ghke.png)
-![Discord Output](https://i.imgur.com/91QaphO.png)
+<img src="[https://i.imgur.com/Cn3Ghke.png" alt="Console Output" width=100%>
+<img src="[https://i.imgur.com/91QaphO.png" alt="Discord Output" width=100%>
 
 ## Installation
 
