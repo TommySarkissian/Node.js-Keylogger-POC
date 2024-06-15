@@ -18,8 +18,6 @@ This project is a proof-of-concept Node.js keylogger that captures and analyzes 
 
 1. Ensure that [Node.js](https://nodejs.org/) is installed on your machine. This project requires Node.js version 12.22.11, which can be installed via `nvm` (Node Version Manager).
 
-    ### Installing Node.js via NVM
-
  ```bash
     # Install nvm
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
