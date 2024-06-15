@@ -43,7 +43,7 @@ This project is a proof-of-concept Node.js keylogger that captures and analyzes 
 3. Navigate to the project directory:
 
  ```bash
-    cd nodejs-keylogger-poc
+    cd Node.js-Keylogger-POC
  ```
 
 4. Install dependencies:
